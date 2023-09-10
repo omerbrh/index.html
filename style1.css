@@ -1,0 +1,36 @@
+img {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	padding: 5px;
+	width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+ 
+}
+
+h1 {
+	text-align: center;
+	background-color: #f8f8f8;
+	padding: 20px 0;
+	border-bottom: 1px solid #ddd;
+}
+
+body{
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+  font-family:Arial, sans-serif;
+  margin-bottom: 20px;
+  background-image: url("pngtree-simple-atmospheric-gradient-urban-construction-enterprise-ppt-background-image_260238.jpg");
+  background-size:cover
+}
+
+.Special{
+	font-family: Arial, sans-serif;
+  font-size: 28px;
+  color: blue; 
+ 
+ 
+		
+}
